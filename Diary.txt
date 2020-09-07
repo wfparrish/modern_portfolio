@@ -1,0 +1,10 @@
+9/7/2020
+
+Started tutorial for the resume/portfolio site - Brad Traversy
+https://www.youtube.com/watch?v=gYzHS-n2gqU&list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU&index=1
+
+The beginning of the video shows how to set up scss/sass and use it
+to update the css file
+
+Just remember to update the main.sass file, not the dist/css/main.css file
+
