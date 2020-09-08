@@ -6,7 +6,7 @@
   "homepage": "https://wfparrish.github.io/modern_portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
