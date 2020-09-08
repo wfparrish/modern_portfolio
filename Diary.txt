@@ -6,5 +6,11 @@ https://www.youtube.com/watch?v=gYzHS-n2gqU&list=PLillGF-RfqbYoGoCjKoMOkVznV6aSX
 The beginning of the video shows how to set up scss/sass and use it
 to update the css file
 
+To start the project you need two terminal windows:
+1st window: 
+npm run sass
+2nd window:
+open Live Server
+
 Just remember to update the main.sass file, not the dist/css/main.css file
 
